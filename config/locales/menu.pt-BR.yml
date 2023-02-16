@@ -1,0 +1,6 @@
+pt-BR:
+  menu:
+    signup: "Register"
+    signin: "To enter"
+    logout: "To go out"
+    new_ad: "New ad"

@@ -1,0 +1,9 @@
+pt-BR:
+  helpers:
+    submit:
+      login: "To enter"
+      user:
+        create: "Register"
+        update: "Update profile"
+      ad:
+        create: "Create"

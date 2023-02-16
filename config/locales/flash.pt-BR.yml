@@ -1,0 +1,10 @@
+pt-BR:
+  sessions:
+    create:
+      welcome: "Welcome %{name}!"
+      invalid_credentials: "Invalid email or password."
+    destroy:
+      session_finished: "Session ended"
+  users:
+    create:
+      success: "Registration done successfully!"

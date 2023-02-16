@@ -1,0 +1,12 @@
+pt-BR:
+  activerecord:
+    attributes:
+      ad:
+        title: "Title"
+        description: "Description"
+        prince: "Prince"
+      user:
+        name: "Name"
+        email: "Email"
+        password: "Password"
+        password_confirmation: "Password confirmation"
